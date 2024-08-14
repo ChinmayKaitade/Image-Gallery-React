@@ -52,6 +52,8 @@ react-image-gallery/
 
 ### 📷 Screenshot
 
+🔗 [Live Demo Link](https://image-gallery-react-chaicode.netlify.app/)
+
 ![Image1](./output/Image1.png)
 
 ![Image2](./output/Image2.png)
